@@ -1,3 +1,5 @@
 # Go-DSA-Challenges
 
-1. Priority Queue
+### Arrays
+
+1. Merge Sorted Array
